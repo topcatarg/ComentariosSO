@@ -7,8 +7,14 @@ Mira [ask] para que tu pregunta sea mejor recibida. También, aprovecha y haz el
 ###[Q] Imagenes
 Por favor, no uses imágenes salvo que sea absolutamente necesario. Mira por favor [aca](https://es.meta.stackoverflow.com/a/3976/324). Los errores y tu codigo deben ir como texto, siempre.
 
-###[Q] Duplicate Closure
-This question will probably be closed as a duplicate soon. If the answers from the duplicates don't fully address your question please edit it to include why and flag this for re-opening. Thanks!
+###[Q] Mostra algo
+Mira [ask] para que tu pregunta sea mejor recibida. Podrias mostrarnos que intentaste hasta ahora? [type here]
+
+###[Q] Cerrar por duplicado
+Esta pregunta probablemente sera cerrada por duplicada dentro de poco. Si las respuestas en la pregunta duplicada no solucionan tu problema, por favor edita la pregunta explicando porque no lo solucionan y marca esta pregunta para que sea reabierta si ya fue cerrada.
+
+###[A] Solo codigo
+Tu respuesta es solo codigo. Por favor mira [answer]. Se pide que expliques que hace este código (mas alla que a ti vos te parezca obvio, puede que otro usuario no lo vea tan simple).
 
 ###[A] Answers just to say Thanks!
 Please don't add "thanks" as answers. Invest some time in the site and you will gain sufficient [privileges](//$SITEURL$/privileges) to upvote answers you like, which is the $SITENAME$ way of saying thank you.
