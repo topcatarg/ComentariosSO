@@ -13,6 +13,9 @@ Mira [ask] para que tu pregunta sea mejor recibida. Podrias mostrarnos que inten
 ###[Q] Cerrar por duplicado
 Esta pregunta probablemente sera cerrada por duplicada dentro de poco. Si las respuestas en la pregunta duplicada no solucionan tu problema, por favor edita la pregunta explicando porque no lo solucionan y marca esta pregunta para que sea reabierta si ya fue cerrada.
 
+###[Q] Asociacion
+asociación: [type here]
+
 ###[A] Solo codigo
 Tu respuesta es solo codigo. Por favor mira [answer]. Se pide que expliques que hace este código (mas alla que a ti vos te parezca obvio, puede que otro usuario no lo vea tan simple).
 
