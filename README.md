@@ -19,8 +19,8 @@ asociación: [type here]
 ###[A] Solo codigo
 Tu respuesta es solo codigo. Por favor mira [answer]. Se pide que expliques que hace este código (mas alla que a ti vos te parezca obvio, puede que otro usuario no lo vea tan simple).
 
-###[A] Answers just to say Thanks!
-Please don't add "thanks" as answers. Invest some time in the site and you will gain sufficient [privileges](//$SITEURL$/privileges) to upvote answers you like, which is the $SITENAME$ way of saying thank you.
+###[A] Gracias!
+Por favor no agregues una respuesta que diga gracias. Invierte algun tiempo en el sitio y ganaras suficiente [reputación](//$SITEURL$/privileges) para votar a las respuestas que te gustaron. Esa es la forma de decir gracias en $SITENAME$.
 
 ###[A] Nothing but a URL (and isn't spam)
 Whilst this may theoretically answer the question, [it would be preferable](//meta.stackexchange.com/q/8259) to include the essential parts of the answer here, and provide the link for reference.
