@@ -46,5 +46,5 @@ This question appears to be off-topic because it is too localized.
 ###[EQ] Improper tagging
 The tags you were using are not appropriate for this question. Please review [What are tags, and how should I use them?](//$SITEURL$/help/tagging)
 
-### Vandalismo
+###Vandalismo
 Por favor no generes más trabajo a los otros usuarios vandalizando tu publicación. Publicando en la red [SE] otorgaste derechos no revocables, bajo la [licencia CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) para que SE pueda distribuir su contenido. Por política de SE, cualquier clase de vandalismo será revertido. Si queres saber más sobre cómo eliminar una publicación, considera mirar: [¿Cómo funciona la eliminación de publicaciones? ¿Por qué podría eliminarse una publicación y qué implica? ¿Cuál es el criterio para eliminar](https://es.meta.stackoverflow.com/q/1033/).
