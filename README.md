@@ -20,7 +20,7 @@ Hi. spanish is the official language for this site. please translate the questio
 asociación: [type here]
 
 ###[Q] Ejercicios
-Una publicación que simplemente dice: "este es mi ejercicio, resuélvanlo", no es bien recibida. Es mejor que incluyas el contexto (usa el botón [edit] para hacer cambios en tu pregunta): incluí que intentaste/investigaste y también cual es el problema puntual que tuviste. Demuestra algo que nos indique que formas parte de la experiencia de aprender a solucionar tu problema. [type here]
+Una publicación que simplemente dice: "este es mi ejercicio, resuélvanlo", no es bien recibida. Es mejor que incluyas el contexto (usa el botón [edit] para hacer cambios en tu pregunta): incluye que intentaste/investigaste y también cual es el problema puntual que tuviste. Demuestra algo que nos indique que formas parte de la experiencia de aprender a solucionar tu problema. [type here]
 
 ###[A] Solo codigo
 Tu respuesta es solo codigo. Por favor mira [answer]. Se pide que expliques que hace este código (mas alla que a ti vos te parezca obvio, puede que otro usuario no lo vea tan simple).
