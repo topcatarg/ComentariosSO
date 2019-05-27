@@ -13,6 +13,9 @@ Mira [ask] para que tu pregunta sea mejor recibida. Podrias mostrarnos que inten
 ###[Q] Cerrar por duplicado
 Esta pregunta probablemente sera cerrada por duplicada dentro de poco. Si las respuestas en la pregunta duplicada no solucionan tu problema, por favor edita la pregunta explicando porque no lo solucionan y marca esta pregunta para que sea reabierta si ya fue cerrada.
 
+###[Q] En ingles
+Hi. spanish is the official language for this site. please translate the question, if not it could be close.
+
 ###[Q] Asociacion
 asociación: [type here]
 
