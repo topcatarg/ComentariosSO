@@ -28,8 +28,8 @@ Tu respuesta es solo codigo. Por favor mira [answer]. Se pide que expliques que 
 ###[A] Gracias!
 Por favor no agregues una respuesta que diga gracias. Invierte algun tiempo en el sitio y ganaras suficiente [reputación](//$SITEURL$/privileges) para votar a las respuestas que te gustaron. Esa es la forma de decir gracias en $SITENAME$.
 
-###[A] Nothing but a URL (and isn't spam)
-Whilst this may theoretically answer the question, [it would be preferable](//meta.stackexchange.com/q/8259) to include the essential parts of the answer here, and provide the link for reference.
+###[A] URL no spam
+Aunque teoricamente este enlace conteste la pregunta, es preferible que incluyas las partes esenciales del mismo en la respuesta. Los enlaces pueden caducar y desaparecer. Ademas llevar al usuario a que lea en otro lugar la respuesta, no es la mejor opción.
 
 ###[A] Parece un comentario
 Esto parece relamente un comentario mas que una respuesta. Con un poco mas de reputación, [vas a poder comentar en cualquier lado.](//$SITEURL$/privileges/comment). Por favor mira [answer]
