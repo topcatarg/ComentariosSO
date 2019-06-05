@@ -22,6 +22,9 @@ asociación: [type here]
 ###[Q] Ejercicios
 Una publicación que simplemente dice: "este es mi ejercicio, resuélvanlo", no es bien recibida. Es mejor que incluyas el contexto (usa el botón [edit] para hacer cambios en tu pregunta): incluye que intentaste/investigaste y también cual es el problema puntual que tuviste. Demuestra algo que nos indique que formas parte de la experiencia de aprender a solucionar tu problema. [type here]
 
+###[Q] Y el error?
+Nos decis que tenes un error, y te creemos. Pero es mejor que nos muestres que error te da (como texto) y cual es la linea o el contexto donde te da el mismo.
+
 ###[A] Solo codigo
 Tu respuesta es solo codigo. Por favor mira [answer]. Se pide que expliques que hace este código (mas alla que a ti vos te parezca obvio, puede que otro usuario no lo vea tan simple).
 
@@ -32,7 +35,7 @@ Por favor no agregues una respuesta que diga gracias. Invierte algun tiempo en e
 Aunque teoricamente este enlace conteste la pregunta, es preferible que incluyas las partes esenciales del mismo en la respuesta. Los enlaces pueden caducar y desaparecer. Ademas llevar al usuario a que lea en otro lugar la respuesta, no es la mejor opción.
 
 ###[A] Parece un comentario
-Esto parece relamente un comentario mas que una respuesta. Con un poco mas de reputación, [vas a poder comentar en cualquier lado.](//$SITEURL$/privileges/comment). Por favor mira [answer]
+Esto parece realmente un comentario mas que una respuesta. Con un poco mas de reputación, [vas a poder comentar en cualquier lado.](//$SITEURL$/privileges/comment). Por favor mira [answer]
 
 ###[A] OP using an answer for further information
 Please use the *Post answer* button only for actual answers. You should modify your original question to add additional information.
