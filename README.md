@@ -37,20 +37,18 @@ Aunque teoricamente este enlace conteste la pregunta, es preferible que incluyas
 ###[A] Parece un comentario
 Esto parece realmente un comentario mas que una respuesta. Con un poco mas de reputación, [vas a poder comentar en cualquier lado.](//$SITEURL$/privileges/comment). Por favor mira [answer]
 
-###[A] OP using an answer for further information
-Please use the *Post answer* button only for actual answers. You should modify your original question to add additional information.
+###[A] Otro usuario agregando yo tambien!
+Si tenes una nueva pregunta, por favor hacela presionando sobre el botón [Hacer una pregunta](//$SITEURL$/questions/ask). Si tenes suficiente reputación, [puedes votar la pregunta positivamente](//$SITEURL$/privileges/vote-up). Alternativamente, "usa la estrella" para anotartela como favorita y seras notificado de nuevas respuestas.
+
+###[A] OP agregando informacion
+Por favor use la sección respuestas solo si tenes una respuesta. Deberias modificar tu pregunta añadiendo esta informacion, usando el boton editar debajo de tu publicación
 
 ###[A] OP agregando una nueva pregunta como respuesta
 Si tenes otra pregunta, por favor hacela presionando sobre el botón [Hacer una pregunta](//$SITEURL$/questions/ask). La sección de respuestas no debe ser usada para hacer una pregunta.
 
-###[A] Otro usuario agregando yo tambien!
-Si tenes una nueva pregunta, por favor hacela presionando sobre el botón [Hacer una pregunta](//$SITEURL$/questions/ask). Si tenes suficiente reputación, [puedes votar la pregunta positivamente](//$SITEURL$/privileges/vote-up). Alternativamente, "usa la estrella" para anotartela como favorita y seras notificado de nuevas respuestas.
-
-###[C] Too localized
-This question appears to be off-topic because it is too localized.
-
-###[EQ] Improper tagging
-The tags you were using are not appropriate for this question. Please review [What are tags, and how should I use them?](//$SITEURL$/help/tagging)
+###[EQ] Malas etiquetas
+Las etiquetas que estas usando son incorrectas. por favor revisa [Que son las etiquetas y como se usan?](//$SITEURL$/help/tagging)
 
 ###Vandalismo
-Por favor no generes más trabajo a los otros usuarios vandalizando tu publicación. Publicando en la red [SE] otorgaste derechos no revocables, bajo la [licencia CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) para que SE pueda distribuir su contenido. Por política de SE, cualquier clase de vandalismo será revertido. Si queres saber más sobre cómo eliminar una publicación, considera mirar: [¿Cómo funciona la eliminación de publicaciones? ¿Por qué podría eliminarse una publicación y qué implica? ¿Cuál es el criterio para eliminar](https://es.meta.stackoverflow.com/q/1033/).
+Por favor no generes más trabajo a los otros usuarios vandalizando tu publicación. Por política de SE, cualquier clase de vandalismo será revertido. Si queres saber más sobre cómo eliminar una publicación, considera mirar: [¿Cómo funciona la eliminación de publicaciones? ¿Por qué podría eliminarse una publicación y qué implica? ¿Cuál es el criterio para eliminar](https://es.meta.stackoverflow.com/q/1033/).
+
