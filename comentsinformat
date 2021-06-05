@@ -1,0 +1,40 @@
+callback(
+[
+{ "name": " ComentariosSO", "description": "Lista de comentarios para usar con el script AutoReviewcomments"},
+
+{ "name": "[Q] Sin reputacion", "description": "Mira [ask] para que tu pregunta sea mejor recibida. También, aprovecha y haz el [tour] para entender mejor cómo funcionamos y de paso obtener tu primera <a href=\"https://$SITEURL$/help/badges\">medalla</a>! [type here]"},
+
+{ "name": "[Q] Imagenes", "description": "Por favor, no uses imágenes salvo que sea absolutamente necesario. Mira por favor <a href=\"https://es.meta.stackoverflow.com/a/3976/324\">aca</a>. Los errores y tu codigo deben ir como texto formateado segun corresponda, si es un error como comentario, si es codigo como codigo,"},
+
+{ "name": "[Q] Mostra algo", "description": "siempre."},
+
+{ "name": "[Q] Cerrar por duplicado", "description": "Mira [ask] para que tu pregunta sea mejor recibida. Podrias mostrarnos que intentaste hasta ahora? [type here]"},
+
+{ "name": "[Q] En ingles", "description": "Esta pregunta probablemente sera cerrada por duplicada dentro de poco. Si las respuestas en la pregunta duplicada no solucionan tu problema, por favor edita la pregunta explicando porque no lo solucionan y marca esta pregunta para que sea reabierta si ya fue cerrada."},
+
+{ "name": "[Q] Asociacion", "description": "Hi. spanish is the official language for this site. please translate the question, if not it could be close."},
+
+{ "name": "[Q] Ejercicios", "description": "asociación: [type here]"},
+
+{ "name": "[Q] Y el error?", "description": "Una publicación que simplemente dice: \"este es mi ejercicio, resuélvanlo\", no es bien recibida. Es mejor que incluyas el contexto (usa el botón [edit] para hacer cambios en tu pregunta): incluye que intentaste/investigaste y también cual es el problema puntual que tuviste. Demuestra algo que nos indique que formas parte de la experiencia de aprender a solucionar tu problema. [type here]"},
+
+{ "name": "[A] Solo codigo", "description": "Nos decis que tenes un error, y te creemos. Pero es mejor que nos muestres que error te da (como texto) y cual es la linea o el contexto donde te da el mismo."},
+
+{ "name": "[A] Gracias!", "description": "Tu respuesta es solo codigo. Por favor mira [answer]. Se pide que expliques que hace este código (mas alla que a ti vos te parezca obvio, puede que otro usuario no lo vea tan simple)."},
+
+{ "name": "[A] URL no spam", "description": "Por favor no agregues una respuesta que diga gracias. Invierte algun tiempo en el sitio y ganaras suficiente <a href=\"//$SITEURL$/privileges\">reputación</a> para votar a las respuestas que te gustaron. Esa es la forma de decir gracias en $SITENAME$."},
+
+{ "name": "[A] Parece un comentario", "description": "Aunque teoricamente este enlace conteste la pregunta, es preferible que incluyas las partes esenciales del mismo en la respuesta. Los enlaces pueden caducar y desaparecer. Ademas llevar al usuario a que lea en otro lugar la respuesta, no es la mejor opción."},
+
+{ "name": "[A] Otro usuario agregando yo tambien!", "description": "Esto parece realmente un comentario mas que una respuesta. Con un poco mas de reputación, <a href=\"//$SITEURL$/privileges/comment\">vas a poder comentar en cualquier lado.</a>. Por favor mira [answer]"},
+
+{ "name": "[A] OP agregando informacion", "description": "Si tenes una nueva pregunta, por favor hacela presionando sobre el botón <a href=\"//$SITEURL$/questions/ask\">Hacer una pregunta</a>. Si tenes suficiente reputación, <a href=\"//$SITEURL$/privileges/vote-up\">puedes votar la pregunta positivamente</a>. Alternativamente, \"usa la estrella\" para anotartela como favorita y seras notificado de nuevas respuestas."},
+
+{ "name": "[A] OP agregando una nueva pregunta como respuesta", "description": "Por favor use la sección respuestas solo si tenes una respuesta. Deberias modificar tu pregunta añadiendo esta informacion, usando el boton editar debajo de tu publicación"},
+
+{ "name": "[EQ] Malas etiquetas", "description": "Si tenes otra pregunta, por favor hacela presionando sobre el botón <a href=\"//$SITEURL$/questions/ask\">Hacer una pregunta</a>. La sección de respuestas no debe ser usada para hacer una pregunta."},
+
+{ "name": "Vandalismo", "description": "Las etiquetas que estas usando son incorrectas. por favor revisa <a href=\"//$SITEURL$/help/tagging\">Que son las etiquetas y como se usan?</a>"},
+
+]
+)
