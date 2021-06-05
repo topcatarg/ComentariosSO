@@ -5,8 +5,7 @@ Lista de comentarios para usar con el script AutoReviewcomments
 Mira [ask] para que tu pregunta sea mejor recibida. También, aprovecha y haz el [tour] para entender mejor cómo funcionamos y de paso obtener tu primera [medalla](https://$SITEURL$/help/badges)! [type here]
 
 ###[Q] Imagenes
-Por favor, no uses imágenes salvo que sea absolutamente necesario. Mira por favor [aca](https://es.meta.stackoverflow.com/a/3976/324). Los errores y tu codigo deben ir como texto formateado segun corresponda (si es un error como comentario, si es codigo como codigo),
-siempre.
+Por favor, no uses imágenes salvo que sea absolutamente necesario. Mira por favor [aca](https://es.meta.stackoverflow.com/a/3976/324). Los errores y tu codigo deben ir como texto formateado segun corresponda (si es un error como comentario, si es codigo como codigo),siempre.
 
 ###[Q] Mostra algo
 Mira [ask] para que tu pregunta sea mejor recibida. Podrias mostrarnos que intentaste hasta ahora? [type here]
